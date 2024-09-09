@@ -1,1 +1,1 @@
-# fa24-cs411-team111-scooby7
+# 111-scooby7
